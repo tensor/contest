@@ -15,6 +15,10 @@ I don't figure out  why filters didn't work neither, oooops.
 The idea blending method should hits 2800 in my test data, while 
 only nearly 2400 were hit actually. 
 
+Apcluster produce lots of cluster and doesn't work in this solution, if I choose middle value as preference.
+
+
+
 Todo
 ====
 Learn the weights in KNN
